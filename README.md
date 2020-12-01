@@ -7,8 +7,8 @@
 
 Сигмоида 
   
-begin{equation}
-f(x) = \frac{1}{1 + exp^{-x}}
-end{equation}
+
+$$f(x) = \frac{1}{1 + exp^{-x}}$$
+
 
 ![ui_glow_up](./doc/sigmoid.JPG)
