@@ -9,8 +9,8 @@
   
 
 $$
-f(x) = {1 \over 1+exp^(-x)}
-$$
+x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}
+$$ 
 
 
 ![ui_glow_up](./doc/sigmoid.JPG)
