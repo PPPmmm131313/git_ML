@@ -6,7 +6,9 @@
 ## Функция активации нейронов 
 
 Сигмоида 
-
-$f(x) = \frac{1}{1 + exp^{-x}}$
+  
+begin{equation}
+f(x) = \frac{1}{1 + exp^{-x}}
+end{equation}
 
 ![ui_glow_up](./doc/sigmoid.JPG)
