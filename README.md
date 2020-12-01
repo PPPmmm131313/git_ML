@@ -8,9 +8,7 @@
 Сигмоида 
   
 
-$$
-x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}
-$$ 
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
 
 
 ![ui_glow_up](./doc/sigmoid.JPG)
