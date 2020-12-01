@@ -8,7 +8,7 @@
 Сигмоида 
   
 
-Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+"Let $\text{S}1(N) = \sum{p=1}^N \text{E}(p)$"
 
 
 ![ui_glow_up](./doc/sigmoid.JPG)
