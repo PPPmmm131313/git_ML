@@ -8,7 +8,9 @@
 Сигмоида 
   
 
-$$f(x) = \frac{1}{1 + exp^{-x}}$$
+$$
+f(x) = {1 \over 1+exp^(-x)}
+$$
 
 
 ![ui_glow_up](./doc/sigmoid.JPG)
