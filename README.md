@@ -7,7 +7,6 @@
 
 Сигмоида 
 
-
-h<sub> f(x)={{1}\over{1+exp(-x)}}</sub>
+$f(x) = \frac{1}{1 + exp^{-x}}$
 
 ![ui_glow_up](./doc/sigmoid.JPG)
